@@ -7,7 +7,6 @@ import Moods from './components/Moods';
 import Spinner from './components/Spinner';
 import Squares from './components/Squares';
 import Programmers from './components/Programmers';
-
 render(
   <>
     <Counter />
